@@ -1,1 +1,1 @@
-https://Kira-Vishn9.github.io/rsschool-cv/cv
+https://Kira-Vishn9.github.io/rsschool-cv/
