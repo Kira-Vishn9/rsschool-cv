@@ -13,7 +13,7 @@
 * Full immersion in the essence of the problems
 * Stress tolerance
 * Creativity
-#Skills:
+# Skills:
 * HTML
 * CSS
 * JS
