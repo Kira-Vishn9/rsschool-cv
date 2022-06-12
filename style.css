@@ -11,7 +11,7 @@ body {
     align-items: center;}
 
 .nav {
-    background-color: yellow;
+    background-color: #fecb00;
     display: flex;}
 
 .nav ul {
@@ -29,7 +29,7 @@ body {
          flex-direction: column; 
          justify-content: space-around;}
 
-.my_info_header {background-color: yellow;
+.my_info_header {background-color: #fecb00;
     text-align: center;
 }
 
@@ -95,3 +95,45 @@ font: 900;}
 }
 
 /**footer**/
+
+.container_footer {
+    width: 100%;
+    margin: 0;
+}
+
+.in_conteiner_footer {
+    background-color: #fecb00;
+    display: flex;
+}   
+
+.footer_left {
+    width: 300px;
+    background-color: black;
+    color: #fecb00;
+    text-align: center;
+    padding-top: 20px;
+    
+}
+
+.footer_left span {
+    padding-left: 10px;
+}
+
+.footer_left li {
+    
+    padding-right: 10px;
+
+}
+
+.footer_right {
+    display: flex;
+    
+    
+}   
+
+.footer_right_img {
+    display: flex;
+    font-size:70px;
+    text-align: center;
+}
+.footer_right_img p {margin-left: 200px;}
