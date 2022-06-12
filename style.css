@@ -36,3 +36,62 @@ body {
 .photo_header {
     
 }
+
+/**main**/
+
+.conteiner_2 {display: flex;}
+
+.aside_conteiner {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    color: white;
+    background-color: black;
+}
+
+.education_box {
+    padding: 40px;
+    margin: 30px;
+}
+
+.about_me {
+    padding: 10px;
+}
+
+.about_me h3 {text-align: center;
+font-size: 30px;
+font: 900;}
+
+
+.about_me p {
+    font-style: italic;
+    font-size: 20px;
+}
+
+.about_me h4 {
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.about_me li {
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.my_code {
+    text-align: center;
+}
+
+.my_code img {
+    width: 500px;
+    height: auto;
+}
+
+.my_code h3 {
+    font-size: 20px;
+    font-weight: 900;
+
+}
+
+/**footer**/
