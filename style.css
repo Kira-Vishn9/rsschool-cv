@@ -114,7 +114,16 @@ border-bottom: 1px solid black;}
     border-bottom: 2px solid black;
     font-size: 20px;
     font-weight: 900;
-
+}
+.code {
+    margin-left: 310px;
+    width: 500px;
+    background-color: #fecb00;
+    border: 2px solid black;
+    border-radius: 30px;
+    color: black;
+    font-size: 20px;
+    font-weight: 700;
 }
 
 
