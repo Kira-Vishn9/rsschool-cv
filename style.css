@@ -78,7 +78,7 @@ a {
     padding: 10px;
 }
 
-.about_me h2 {text-align: center;
+.about_me h3 {text-align: center;
 font-size: 30px;
 font: 900;
 border-bottom: 1px solid black;}
@@ -114,38 +114,8 @@ border-bottom: 1px solid black;}
     border-bottom: 2px solid black;
     font-size: 20px;
     font-weight: 900;
-}
-.code {
-    margin-left: 310px;
-    width: 500px;
-    background-color: #fecb00;
-    border: 2px solid black;
-    border-radius: 30px;
-    color: black;
-    font-size: 20px;
-    font-weight: 700;
-}
 
-
-.projeckt {
-    text-align: center;
 }
-.projeckt h2 {
-    padding-bottom: 10px;
-    border-bottom: 5px dashed  black;
-    font-size: 20px;
-    font-weight: 600;
-}
-.projeckt p {
-    color: #a00000;
-    font-size: 30px;
-    font-family: 'Times New Roman', Times, serif;
-    font-weight: 900;
-}
-.progeck_img img{border: #fecb00 2px solid;
-border-radius: 20px;
-margin-bottom: 20px;}
-
 
 /**footer**/
 
